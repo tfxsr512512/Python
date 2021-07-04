@@ -1,3 +1,0 @@
-
-s = "alex"
-s.strip()

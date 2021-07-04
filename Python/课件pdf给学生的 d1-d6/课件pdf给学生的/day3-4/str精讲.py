@@ -1,0 +1,3 @@
+
+s = "alex"
+s.strip()

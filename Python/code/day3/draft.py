@@ -1,0 +1,3 @@
+
+s = "jack"
+print("s. ")
